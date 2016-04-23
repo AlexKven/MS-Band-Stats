@@ -1,0 +1,16 @@
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bin\Debug\ReverseMap\resources.pri
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bin\Debug\AppxManifest.xml
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bin\Debug\MS Band Stats.build.appxrecipe
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bld\Debug\ResourceHandlingTask.state
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bld\Debug\priconfig.xml
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bld\Debug\priconfig.xml.intermediate
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bld\Debug\layout.resfiles
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bld\Debug\layout.resfiles.intermediate
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bld\Debug\resources.resfiles
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bld\Debug\resources.resfiles.intermediate
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bld\Debug\pri.resfiles
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bld\Debug\pri.resfiles.intermediate
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bld\Debug\qualifiers.txt
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Alexander\Documents\GitHub\MS-Band-Stats\MS Band Stats\MS Band Stats\bld\Debug\ProjectArchitectures.txt
